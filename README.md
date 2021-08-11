@@ -8,14 +8,14 @@ sudo nautilus
 
 After, add the RR Gradient to usr>share>themes
 
-Add the iCons to usr>share>icons
+Add the scarce-green and scarce-green-dark to usr>share>icons
 
 Add the GTK3 theme to usr>share>themes
 
 Add the background picture to the backround boxes for both Lock and desktop screen.
 
 After you do this, open tweaks from the applications place and click on Appearance.
-For app icons, click on icons and choose iCons
+For app icons, click on icons and choose scarce-green-dark (note: It won't work if you do not put the scarce-green file also to nautilus or if you choose scarce-green in tweaks. They are the same things; but won't work without each other.)
 For window themes, choose applications and GTK3 theme.
 For themes, choose themes and RR Gradient theme.
 And lastly, go to windows on the left menu, and choose 'right' at the bottom of the page, placement.
