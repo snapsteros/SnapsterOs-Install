@@ -1,5 +1,5 @@
 Welcome to Snapster OS installation tour!
-All you need is to download these files as .zip and have a booted Ubuntu 20.04 LTS.
+All you need is to download these files as .zip or .tarxz and have a booted Ubuntu 20.04 LTS.
 Now, open your terminal and write:
 sudo apt install-gnome-tweaks
 
